@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=F9D3E0&height=220&section=header&text=Youtube Pink&fontSize=52&fontColor=FFFFFF" alt="Youtube Pink">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=F9D3E0&height=220&section=header&text=Youtube Pink&fontSize=52&fontColor=FFFFFF">
 </p>
 
 <p align="center">
-  YouTube IPA builder packed with customizable tweaks. Also Known as Youtubemaxxing.<br>
+  YouTube IPA builder packed with customizable tweaks.<br>
   <a href="https://github.com/ikyih/YoutubePINK">github.com/ikyih/YoutubePINK</a>
 </p>
 
